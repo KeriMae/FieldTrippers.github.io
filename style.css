@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11;
+    background-color: #f4ba31;
+}
+
+.header-container {
+    height: 70vh;
+    background-image: url(assets/First-Field-Trippers.jpg);
+    background-size: cover;
+}
+
+.header-container-title {
+    text-align: center;
+    color: rgb(255, 253, 253);
+    font-family: Georgia;
+    font-size: 500%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sidebar-container {
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.sidebar-accent {
+    padding: 30px 30px 10px 30px;
+    font-size: 16pt;
+    text-transform: uppercase;
+    color: black
+}
+
+.sidebar-title {
+    font-size: 50px;
+    font-weight: bold;
+    padding: left 30px;
+    width: 1000px;
+    border-bottom: 5px solid black;
+}
