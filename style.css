@@ -28,15 +28,17 @@ nav a {
     background-color: #d1891d;
     color: black;
     border-radius: 10px;
-    font-size: 2em;
+    font-size: 1em;
     text-decoration: none;
     margin-inline: 30px;
 
 }
 
 .gallery img {
-    padding: 20px;
+    width: 300px;
+    padding: 10px;
     border-radius: 40px;
+    align: center;
 }
 
 footer {
