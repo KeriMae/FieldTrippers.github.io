@@ -28,10 +28,23 @@ nav a {
     background-color: #d1891d;
     color: black;
     border-radius: 10px;
-    font-size: 1em;
+    font-size: 1.15em;
+    text-decoration: none;
+    margin-inline: 20px;
+
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;
+    background-color: #d1891d;
+    color: black;
+    border-radius: 10px;
+    font-size: 2em;
     text-decoration: none;
     margin-inline: 30px;
-
+    margin-top: 50px;
 }
 
 .gallery img {
