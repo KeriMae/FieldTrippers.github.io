@@ -1,8 +1,18 @@
+@font-face {
+    font-family: brandfont;
+    src: url(assets/BukhariScript.ttf);
+}
+
 body {
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 24px;
     background-color: #e8bf2c;
+}
+
+.h1 {
+    font-family: brandfont;
+    font-size: 52px;
 }
 
 .header-container {
